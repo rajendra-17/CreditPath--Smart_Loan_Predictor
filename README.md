@@ -1,8 +1,3 @@
-# CreditPath-Smart_Loan_Predictor
-Here’s a basic README file template for your project, "CreditPath - Smart Loan Predictor":
-
----
-
 # CreditPath - Smart Loan Predictor
 
 ## Overview
@@ -35,34 +30,6 @@ CreditPath/
 └── README.md               # This file
 ```
 
-## Installation
-
-To run the project, ensure you have Python installed and follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/CreditPath.git
-   cd CreditPath
-   ```
-
-2. **Install Dependencies:**
-
-   It's recommended to use a virtual environment. Create and activate a virtual environment, then install the required packages.
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Application:**
-
-   ```bash
-   python app/app.py
-   ```
-
-   The application will be available at `http://127.0.0.1:5000/`.
 
 ## Usage
 
@@ -72,9 +39,10 @@ To run the project, ensure you have Python installed and follow these steps:
 
 2. **Access the Web Interface:**
 
-   Open your web browser and go to `http://127.0.0.1:5000/`. You will be able to input applicant details and get loan approval predictions.
+   You will be able to input applicant details and get loan approval predictions.   
+https://creditpath-smart-loan-predictor-gvqf.onrender.com
 
-3. **Model Training and Testing:**
+4. **Model Training and Testing:**
 
    Open the Jupyter Notebook `Loan_Prediction_Project.ipynb` to see the model training, evaluation, and testing process.
 
