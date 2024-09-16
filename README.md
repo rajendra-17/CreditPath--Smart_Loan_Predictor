@@ -63,18 +63,4 @@ https://creditpath-smart-loan-predictor-gvqf.onrender.com
 - matplotlib
 - (Other dependencies listed in `requirements.txt`)
 
-## Contributing
 
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Your references, mentors, or any third-party libraries you used.]
-
----
-
-Feel free to modify or expand upon this template to suit your specific needs.
